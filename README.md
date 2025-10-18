@@ -45,9 +45,13 @@
 [![](https://visitcount.itsvg.in/api?id=Vaseem791&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
 
+###
 
+<br clear="both">
 
-![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/85782825/138763017-8429bfb4-44aa-49d9-ae7c-4bcf3a3e6de3.gif)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
