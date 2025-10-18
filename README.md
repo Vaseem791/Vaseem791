@@ -4,8 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a> </p>
 
 <div align="center">
-   [<a href="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif]
-</a>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNrdDZ6NGoyZmRhcGE3Zzl1c3h0cHpsMzNvM3B0d2k2dmloZ2t5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Funny GIF">
 </div>
 
 
