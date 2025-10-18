@@ -4,12 +4,12 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a> </p>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+   <a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Vaseem791" height="300" width="400"/>
+</a>
 </div>
 
 
- <a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Vaseem791" height="300" width="400"/>
-</a>
+
 # 💫 About Me:
 🔭 I’m currently working as .Net Developer<br>👯 I’m looking to collaborate on some awesome projects<br>🤝 I’m looking for help with .Net Projects<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Full Stack Development
 
