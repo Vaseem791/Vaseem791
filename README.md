@@ -29,7 +29,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaseem791/vaseem/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/vaseem791/vaseemreadme/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </div>
 
 
