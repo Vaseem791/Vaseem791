@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaseem Ali</h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Enthusiast;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a> </p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a> </p>
 
  <a href="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" target="_blank"><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Vaseem791" height="300" width="400"/>
 </a>
