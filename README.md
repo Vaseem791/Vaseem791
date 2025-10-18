@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vaseem Ali</h1>
+<h1 align="center">Hey 👋, I'm Vaseem Ali</h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;.NET+Developer;Always%20learning%20new%20things&center=true&width=580&height=45"></a> </p>
 
