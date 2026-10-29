@@ -26,8 +26,6 @@
     <td>
       <img src="https://github-stats-extended.vercel.app/api?username=vaseem791&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="160" alt="GitHub Stats" />
     </td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vaseem791&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
-    </td>
     <td>
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Vaseem791&theme=merko" alt="GitHub Streak" height="150"/>
@@ -38,7 +36,10 @@
 
 <!-- Top Languages on New Row -->
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaseem791&layout=compact&langs_count=5&theme=dracula" height="160" alt="Top Languages" />
+  <tr>
+    <td>  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaseem791&layout=compact&langs_count=5&theme=dracula" height="160" alt="Top Languages" /></td>
+  </tr>
+
 </div>
 
 ---
